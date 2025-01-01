@@ -1,0 +1,6 @@
+starting_model/pretrained_models/*
+
+!starting_model/pretrained_models/.gitignore
+!starting_model/pretrained_models/README.md
+test.ipynb
+*.pth
